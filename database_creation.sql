@@ -1,3 +1,5 @@
+CREATE DATABASE OnlineFoodOrdering;
+
 CREATE TABLE Customers (
     CustomerID INT IDENTITY (1,1)PRIMARY KEY,
     Name NVARCHAR(100),
