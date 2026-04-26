@@ -17,3 +17,4 @@ INSERT INTO OrderDetails (OrderID, ItemID, Quantity, Price) VALUES
 
 INSERT INTO Payments (OrderID, Amount, PaymentMethod, PaymentStatus) VALUES
 (1, 19.48, 'Credit Card', 'Paid');
+
